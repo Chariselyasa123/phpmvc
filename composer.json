@@ -1,0 +1,15 @@
+{
+    "name": "hafid/phpmvc",
+    "autoload": {
+        "psr-4": {
+            "Hafid\\Phpmvc\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chariselyasa123",
+            "email": "charis.acehs@gmail.com"
+        }
+    ],
+    "require": {}
+}
